@@ -1,0 +1,10 @@
+.vscode/
+archives/
+build/
+extra/
+fdf
+fdf_linux
+headers/**
+!headers/fdf.h
+null.d
+maps.zip
